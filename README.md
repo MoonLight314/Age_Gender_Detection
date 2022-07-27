@@ -41,7 +41,7 @@
   - 자세한 사용 방법은 이후 Code로 살펴보겠습니다.   
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/pic_00.png">
+  <img src="pic_00.png">
 </p>
 
 <br>
@@ -66,14 +66,14 @@
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/pic_01.png">
+  <img src="pic_01.png">
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/pic_02.png">
+  <img src="pic_02.png">
 </p>
 
 <br>
@@ -172,7 +172,7 @@ MARGIN_RAIO = 0.2
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/pic_03.png">
+  <img src="pic_03.png">
 </p>
 
 <br>
@@ -1730,19 +1730,19 @@ plt.show()
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/output_107_0.png">
+  <img src="output_107_0.png">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/output_107_1.png">
+  <img src="output_107_1.png">
 </p>
 
 <br>
     
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/output_107_2.png">
+  <img src="output_107_2.png">
 </p>
     
 
@@ -1910,5 +1910,5 @@ cv2.destroyAllWindows()
 <br>
 
 <p align="center">
-  <img src="/assets/Age_Gender_Detector/Result.png">
+  <img src="Result.png">
 </p>
